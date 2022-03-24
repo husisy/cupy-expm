@@ -17,4 +17,4 @@ norm(diff(numpy_extension)): 5.363849691015013e-14
 norm(diff(cupy_extension)): 2.025168132691914e-12
 ```
 
-notice: `numpy_extension.py` is copy from [michael-hartmann/expm](https://github.com/michael-hartmann/expm)
+notice: `numpy_extension.py` is copied from [michael-hartmann/expm](https://github.com/michael-hartmann/expm)
